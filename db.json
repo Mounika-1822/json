@@ -1,0 +1,43 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "mouni",
+      "mail": "mounikadevi@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "vishnu",
+      "mail": "vishnu@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "vamshi",
+      "mail": "gangubhai@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "navya",
+      "mail": "navi@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "vinay",
+      "mail": "vinay@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "gangi",
+      "mail": "pandi@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "sunta",
+      "mail": "daddamma@gmail.com"
+    },
+    {
+      "id": "bdcc",
+      "name": "jaya"
+    }
+  ]
+}
